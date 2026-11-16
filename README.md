@@ -1,6 +1,6 @@
 # Matteo Gallo
 
-I build LLM systems and measure whether they deliver. Software & AI Engineer, Lausanne.
+I build software and AI systems that automate business processes, from design to production. Software & AI Developer, Lausanne.
 
 - **[Verity](https://github.com/matteogallo-ai/verity)**: question answering over documents that cites the exact passage or refuses; wrongly answers 4 of 31 unanswerable questions, against 12 for the same pipeline without checks.
 - **[PromptLang](https://github.com/matteogallo-ai/promptlang)**: a typed LLM-prompt language on npm; its tests catch 96% of 1,942 bugs planted on purpose in its lexer, parser and version check.
@@ -9,7 +9,7 @@ Experiment: **[Praxis](https://github.com/matteogallo-ai/praxis)**, a 7-stage an
 
 How I work: [how-i-build](https://github.com/matteogallo-ai/how-i-build), each rule with the incident behind it and its pull request.
 
-Languages: French and Italian (native), English (intermediate), Spanish (basic). Open to a software and AI engineering role in French-speaking Switzerland.
+Languages: French and Italian (native), English (intermediate), Spanish (basic). Open to projects in companies or a role in French-speaking Switzerland.
 
 matteogallo.office@gmail.com · [matteogallo.ch](https://matteogallo.ch)
 
